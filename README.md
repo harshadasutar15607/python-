@@ -9,7 +9,7 @@ print(mark)
 print( type(mark))
 
 # String
-name = "Deepali"
+name = "Harshada"
 print( name)
 print( type(name))
 
@@ -30,7 +30,7 @@ print( type(numbers))
 
 # Dictionary
 student = {
-    "Name": "Deepali",
+    "Name": "Harshada",
     "Age": 19,
     "Course": "Engineering"
 }
